@@ -1,4 +1,4 @@
-board
+
 def turn_count(board)
   i = 0
   count = 0
@@ -9,4 +9,7 @@ def turn_count(board)
     i += 1
   end
   count
+end
+def current_player(board)
+  if 
 end
